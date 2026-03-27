@@ -8,9 +8,10 @@ This project evaluates extractive and generative summarization models on the Ama
 - Evaluate summaries using ROUGE, BLEU, and BERTScore
 
 ## Structure
-- `notebooks/` – Colab/Jupyter notebooks for experiments
-- `data/` – Sampled Amazon reviews (not committed if large)
-- `src/` – Reusable Python scripts (later)
+- `notebooks/` – Jupyter notebooks for experiments
+- `dataset/` –  dataset link
+- `scripts/` – Python scripts 
+- `outputs/` – dumped csv files
 
 ## Environment
 Main libraries: `pandas`, `numpy`, `transformers`, `torch`, `rouge-score`, `sacrebleu`, `bert-score`.
