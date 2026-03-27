@@ -1,0 +1,205 @@
+product_id,llama_structured_summary
+B0075WWDKQ,".
+
+
+SENTIMENT: Mixed
+STRENGTHS:
+* Regular coffees were very good, better than many
+* Amazonia and Africana medium roasts were liked
+* Dark roast Eclipse, Mexican, and French roast were very good
+* Made into ice coffee, strong but not bitter
+* Chocolate raspberry flavor went nicely into a chocolate cake batter
+* Product was timely delivered as advertised
+* Wonderful selection of coffees
+* Will order again
+COMPLAINTS:
+* Flavored coffees tasted artificial and weird
+* Costa Rican light roast had an artificial taste
+* House blend was good but nothing to write home about
+* Decaf was not liked and was used to water plants
+* Some flavors were not included in the package
+* Duplicates of ordinary coffees received
+SUMMARY: The product received mixed reviews, with some customers enjoying the regular coffees and medium roasts, while others found the flavored coffees to be artificial and weird."
+B0061YK3O2,".
+
+
+SENTIMENT: Positive
+STRENGTHS:
+* Original Cretan olive oil
+* Pure and full taste
+* Ideal for cooking, salads, and dressings
+* High-quality oil with a delicious taste
+* Lasts a long time
+* Good value for the price
+* Local production and sampling at farmers markets
+* Good flavor and low acidity
+* No additives or other oils in the product
+* Good for health and nutrition
+* Recommended by the reviewer
+* Good for cooking and preparing meals
+* Good for dipping bread and making hummus
+* Good for sautéing vegetables and meat
+* Good for making salads and dressings
+* Good for making pasta and other dishes
+* Good for making soups and stews
+* Good for making sauces and marinades
+* Good for making salad dressings and marinades
+* Good for making pasta sauces and marinades
+* Good for making soups and stews
+* Good for making sauces"
+B001EX9LGQ,"Summarize the following customer reviews into a structured format. Use ONLY information present in the reviews.
+
+Reviews:
+our cats just love this stuff. they eat the ultra premium dry food and ocean fish canned food. we've given them some of the other formulas and they'd slowly eat them but they won't leave the ocean fish alone. our cats just love this stuff. they eat the ultra premium dry food and ocean fish canned food. we've given them some of the other formulas and they'd slowly eat them but they won't leave the ocean fish alone. very healthy ingredients..compared to store brands..my cats love this..they are fussy eaters..so i think many cats would love this food..will buy it again. very healthy ingredients..compared to store brands..my cats love this..they are fussy eaters..so i think many cats would love this food..will buy it again.
+
+Provide the summary in this exact structure:
+SENTIMENT: [Positive/Negative/Mixed]
+STRENGTHS: [List key product strengths from the reviews]
+COMPLAINTS: [List common complaints from the reviews]
+SUMMARY: [One concise paragraph combining the above points, strictly based on the reviews] 
+
+SENTIMENT: Positive
+STRENGTHS: 
+• Cats love the Ocean Fish canned food
+• Healthy ingredients compared to store brands
+• Fussy eaters enjoy the food
+COMPLAINTS: 
+• None mentioned
+SUMMARY: The reviewer's cats adore the Ocean Fish canned food, with one even refusing to eat other formulas. The reviewer praises the healthy ingredients and notes that even fussy eaters enjoy the food. With no complaints mentioned, this product seems to be a hit with the reviewer's cats. They plan to buy it again."
+B0062I862I,"Summarize the following customer reviews into a structured format. Use ONLY information present in the reviews.
+
+Reviews:
+anyone who knows yaucono will like the new packaging of mylar-laminated plastic. i wonder how long they packaged in layers of paper? if you have not had this very rich puerto rican coffee, you must sample it and then buy in bulk. juan valdez might have a good bean, but the puerto ricans do it better. anyone who knows yaucono will like the new packaging of mylar-laminated plastic. i wonder how long they packaged in layers of paper? if you have not had this very rich puerto rican coffee, you must sample it and then buy in bulk. juan valdez might have a good bean, but the puerto ricans do it better. i love this coffee. i tried it in puerto rico on our honeymoon and am hooked! i may even go back to puerto rico and get more! i love this coffee. i tried it in puerto rico on our honeymoon and am hooked! i may even go back to puerto rico and get more!
+
+Provide the summary in this exact structure:
+SENTIMENT: [Positive/Negative/Mixed]
+STRENGTHS: [List key product strengths from the reviews]
+COMPLAINTS: [List common complaints from the reviews]
+SUMMARY: [One concise paragraph combining the above points, strictly based on the reviews] 
+
+SENTIMENT: Positive
+STRENGTHS: 
+• Rich Puerto Rican coffee
+• New packaging (Mylar-laminated plastic) is liked by those familiar with Yaucono
+• High-quality beans
+• Recommended for bulk purchase
+• Unique taste compared to other coffee brands (Juan Valdez)
+COMPLAINTS: 
+• None mentioned
+SUMMARY: The reviewers highly praise Yaucono coffee for its rich and unique taste, with some mentioning their familiarity with the brand's new packaging. They recommend it for bulk purchase and compare it favorably to other coffee brands like Juan Valdez. There are no complaints mentioned in the reviews. Overall, the sentiment is overwhelmingly positive."
+B004QDMY42,"Summarize the following customer reviews into a structured format. Use ONLY information present in the reviews.
+
+Reviews:
+it only takes a cursory look at my reviewing history to realize that i haven't exactly made a career out of rating gum, but this new trident vitality is so darn good that i thought i'd better get in a few words on it. i've tried all three of the available flavors and can't seem to choose a favorite. the peppermint with ginseng flavor reviewed here is definitely pretty awesome. the gum has the physical profile of an old-school chicklet. it only takes a bite or two for the strong peppermint flavor to kick in. and man, does this gum last. i can usually go a good 3-4 hours and still get some flavor out of this stuff. that makes it a good value in my book for sure. typically retails for around 1.39 pack at my local grocer, although i've caught it on sale for under a dollar once or twice. highly recommended. it only takes a cursory look at my reviewing history to realize that i haven't exactly made a career out of rating gum, but this new trident vitality is so darn good that i thought i'd better get in a few words on it. i've tried all three of the available flavors and can't seem to choose a favorite. the peppermint with ginseng flavor reviewed here is definitely pretty awesome. the gum has the physical profile of an old-school chicklet. it only takes a bite or two for the strong peppermint flavor to kick in. and man, does this gum last. i can usually go a good 3-4 hours and still get some flavor out of this stuff. that makes it a good value in my book for sure. typically retails for around 1.39 pack at my local grocer, although i've caught it on sale for under a dollar once or twice. highly recommended. hi, i ordered this product from another website but i wanted to post a review on here since it has the same product. okay first of all the packaging looks nice and neat not messy like others, just pure and simple...maybe too simple?. they dont give the ingredients info which is an automatic fail, on the back it says allergy warning contains soy another fail they dont tell us what the gum does, does it whiten teeth? fight bad breath? or what!? you know... it has the word vitality, which means active but thats all they say nothing more?.... the taste is like any other gum hi, i ordered this product from another website but i wanted to post a review on here since it has the same product. okay first of all the packaging looks nice and neat not messy like others, just pure and simple...maybe too simple?. they dont give the ingredients info which is an automatic fail, on the back it says allergy warning contains soy another fail they dont tell us what the gum does, does it whiten teeth? fight bad breath? or what!? you know... it has the word vitality, which means active but thats all they say nothing more?.... the taste is like any other gum
+
+Provide the summary in this exact structure:
+SENTIMENT: [Positive/Negative/Mixed]
+STRENGTHS: [List key product strengths from the reviews]
+COMPLAINTS: [List common complaints from the reviews]
+SUMMARY: [One concise paragraph combining the above points, strictly based on the reviews] 
+
+SENTIMENT: Positive
+STRENGTHS:
+• Lasts for 3-4 hours
+• Strong peppermint flavor
+• Good value
+• Nice packaging
+• Available in multiple flavors
+COMPLAINTS:
+• Lack of ingredient information
+• No clear information on what the gum does
+• Packaging may be too simple
+SUMMARY: The Trident Vitality gum is a highly recommended product with a strong peppermint flavor that lasts for several hours. It is a good value and available in multiple flavors. However, some reviewers were disappointed by the lack of ingredient information and unclear information on what the gum does. Additionally, the packaging may be too simple for some users. Overall, the product's strengths outweigh its weaknesses, making it a great choice for those looking for a long-lasting and flavorful gum."
+B002GURBZ4,", strictly based on the reviews] 
+
+SENTIMENT: Positive
+STRENGTHS: 
+* Stunning appearance
+* Tons of sparkle
+* Fast delivery
+* Highly recommended
+* Great for adding extra something to treats
+COMPLAINTS: 
+* Some customers questioned the edibility of the product
+* One customer reported a bad taste
+SUMMARY: The majority of customers were extremely satisfied with the product, praising its stunning appearance, tons of sparkle, and fast delivery. However, some customers raised concerns about the edibility and taste of the product, with one customer reporting a bad taste. Despite these complaints, the product is highly recommended for adding an extra something to treats. 
+
+Note: The summary should be concise and strictly based on the reviews provided. It should not include any external information or assumptions. 
+
+Please let me know if you need any further assistance. 
+
+Best regards, 
+[Your Name] 
+
+Please let me know if you need any further assistance."
+B001GVISJW,"SENTIMENT: Positive
+STRENGTHS: 
+• Bite-sized pieces are convenient for snacking
+• Soft and easy to chew
+• Variety of flavors (black, cherry, strawberry)
+• Good taste, especially for the black and cherry flavors
+• Reasonable price when buying in bulk
+• Convenient subscription service
+• Less messy than traditional licorice
+COMPLAINTS: 
+• One reviewer experienced a bag breaking open during shipping
+• Some reviewers felt the strawberry flavor was too delicate
+• One reviewer believed the pieces were reduced in size, affecting the flavor experience
+SUMMARY: Overall, the majority of reviewers enjoyed the product, praising its convenience, taste, and variety of flavors. Some reviewers experienced minor issues with shipping and flavor, but these were not enough to detract from their overall positive experience."
+B004X8TK8I,"store. i have no complaints but i also now have no more cookies. we ate them all! these arrived on time and packaged in green plastic wrap. the cookies were as fresh as the boxes found in the local grocery store. i have no complaints but i also now have no more cookies. we ate them all! these arrived on time and packaged in green plastic wrap. the cookies were as fresh as the boxes found in the local grocery store. i have no complaints but i also now have no more cookies. we ate them all! i was not expecting to like these cookies as much as i do. i like chocolate chip cookies well enough, but i really prefer a soft cookie to crisp ones. i have to say these famous amos cookies have pertty much turned me around. the cookies are rich and have that depth of flavor that comes from quality ingredients. the chips are real chocolate and melt redilly in your mouth creating a moist experience while chewing. these are truly great cookies. i was not expecting to like these cookies as much as i do. i like chocolate chip cookies well enough, but i really prefer a soft cookie to crisp ones. i have to say these famous amos cookies have pertty much turned me around. the cookies are rich and have that depth of flavor that comes from quality ingredients. the chips are real chocolate and melt redilly in your mouth creating a moist experience while chewing. these are truly great cookies. i was not expecting to like these cookies as much as i do. i like chocolate chip cookies well enough, but i really prefer a soft cookie to crisp ones. i have to say these famous amos cookies have pertty much turned me around. the cookies are rich and have that depth of flavor that comes from quality ingredients. the chips are real chocolate and melt redilly in your mouth creating a moist experience while chewing. these are truly great cookies. i was not expecting to like these cookies as much as i do. i like chocolate chip cookies well enough, but i really prefer a soft cookie to crisp ones. i have to say these famous amos cookies have pertty much turned me around. the cookies are rich and have that depth of flavor that comes from quality ingredients. the chips are real chocolate and melt redilly in your mouth creating a moist experience while chewing. these are truly great cookies. they aren't fattening and they're good for you, right? that's what i heard, at least, from an admittedly unreliable person. they aren't fattening and they're good for you, right? that's what i heard, at least, from an admittedly unreliable person. they aren't fattening and they're good for you, right? that's what i heard, at least, from an admittedly unreliable person. they aren't fattening and they're good for you, right? that's what i heard, at least, from an admittedly unreliable person.
+
+Provide the summary in this exact structure:
+SENTIMENT: [Positive/Negative/Mixed]
+STRENGTHS: [List key product strengths from the reviews]
+COMPLAINTS: [List common complaints from the reviews]
+SUMMARY: [One concise paragraph combining the above points, strictly based on the reviews] 
+
+SENTIMENT: Positive
+STRENGTHS:
+• Freshness: The cookies arrived fresh and were as fresh as those found in local grocery stores.
+• Quality ingredients: The cookies have a depth of flavor that comes from quality ingredients.
+• Real chocolate chips: The cookies contain real chocolate chips that melt in your mouth.
+• Rich flavor: The cookies are rich and have a great flavor.
+• Arrived on time: The cookies arrived on time.
+• Packaging: The cookies were packaged in green plastic wrap.
+
+COMPLAINTS:
+• Limited quantity: Some reviewers wished they had a larger quantity of cookies.
+• No bushel box option: Some reviewers suggested offering a bushel box option to avoid running out quickly.
+
+SUMMARY: The Famous Amos chocolate chip cookies received overwhelmingly positive reviews, with reviewers praising their freshness, quality ingredients, real chocolate chips, rich flavor, and timely arrival. The only complaints were about the limited quantity and the lack of a bushel box option."
+B003JYEL2W,"Summarize the following customer reviews into a structured format. Use ONLY information present in the reviews.
+
+Reviews:
+i'm usually a caffeine guy, but i had to switch to decaf while my wife is pregnant. this is definitely the best decaf out there - full flavored, smooth, and very aromatic. it's the best! i'm usually a caffeine guy, but i had to switch to decaf while my wife is pregnant. this is definitely the best decaf out there - full flavored, smooth, and very aromatic. it's the best! i love community coffee but the batch i received of the special decaf was old the bags had lost their vacuum packed state. i love community coffee but the batch i received of the special decaf was old the bags had lost their vacuum packed state.
+
+Provide the summary in this exact structure:
+SENTIMENT: [Positive/Negative/Mixed]
+STRENGTHS: [List key product strengths from the reviews]
+COMPLAINTS: [List common complaints from the reviews]
+SUMMARY: [One concise paragraph combining the above points, strictly based on the reviews] 
+
+SENTIMENT: Positive
+STRENGTHS: 
+• Full flavored
+• Smooth
+• Very aromatic
+COMPLAINTS: 
+• Old batch
+• Vacuum packed bags lost their state
+SUMMARY: The majority of the reviews praise the decaf coffee for its full flavor, smoothness, and aromatic qualities. However, one reviewer experienced a negative issue with an old batch of the special decaf, which had lost its vacuum packed state. This highlights the importance of quality control in ensuring customer satisfaction. Overall, the product has received positive feedback, but there is room for improvement in maintaining the freshness of the coffee."
+B001EO67V2,"SENTIMENT: Positive
+STRENGTHS:
+• Soft and slightly chewy texture
+• Good flavors
+• Optimal texture for some customers
+COMPLAINTS:
+• Too sweet for some customers
+• Heavy sugar coating
+SUMMARY: The majority of customers enjoyed the soft and slightly chewy texture of these candies, with some appreciating the good flavors. However, a few customers found them too sweet and with an excessive sugar coating, which may not be suitable for everyone. Overall, the product has its strengths, but may not appeal to those who prefer less sweet treats. 
+
+Note: The summary should be written in a neutral tone, focusing on the facts presented in the reviews. Avoid making subjective judgments or adding personal opinions. 
+
+Please provide the summary in the exact structure provided. 
+
+Thank you!"
